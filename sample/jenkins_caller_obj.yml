@@ -6,5 +6,5 @@ spec:
   appid: "APP12"
   jobname: devops/caller_test
   jobparams:
-    msg: "ArgoCD should trigger a build when this is pushed"
-    msg2: "That seemed to work for real"
+    msg: "ArgoCD is pretty neat"
+    msg2: "That seemed to work really well"
