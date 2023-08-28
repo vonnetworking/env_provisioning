@@ -6,5 +6,5 @@ spec:
   appid: "APP12"
   jobname: devops/caller_test
   jobparams:
-    msg: "Hello from obj - again - againnnn"
-    msg2: "goodbye from obj - again - againnnn"
+    msg: "ArgoCD should trigger a build when this is pushed"
+    msg2: "If It doesn't work, we'll try again"
