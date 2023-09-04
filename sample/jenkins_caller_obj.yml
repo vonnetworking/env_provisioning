@@ -7,4 +7,4 @@ spec:
   jobname: devops/caller_test
   jobparams:
     msg: "ArgoCD is pretty neat...but does it work after a minikube restart?"
-    msg2: "We'll see...again"
+    msg2: "We'll see...for really real"
