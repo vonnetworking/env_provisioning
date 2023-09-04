@@ -4,6 +4,7 @@ metadata:
   name: my-caller      
 spec:
   appid: "APP12"
+  component: "mysql-db01"
   jobname: devops/caller_test
   jobparams:
     msg: "ArgoCD is pretty neat...but does it work after a minikube restart?"
